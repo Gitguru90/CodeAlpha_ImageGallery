@@ -29,7 +29,8 @@ CodeAlpha_ImageGallery/
 
 ## Preview
 
-![Screenshot](screenshot.png)
+images/Screenshot 1.png
+
 
 ## Live Demo
 
