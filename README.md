@@ -30,11 +30,12 @@ CodeAlpha_ImageGallery/
 ## Preview
 
 images/Screenshot 1.png
+images/screenshot2.png
 
 
 ## Live Demo
 
-https://gitguru90.github.io/CodeAlpha_ImageGallery/
+
 
 ## Learning Outcomes
 
